@@ -23,7 +23,7 @@
 			"windows_amd64", 
 			"windows_x86"
 		  ], 
-          "url": "https://www.dropbox.com/s/4cn2269qhoz7h3l/toolchain-gccarmnoneeabi.tar.gz?dl=1", 
+          "url": "https://uc1a06f5910ba27b144d29a6a200.dl.dropboxusercontent.com/cd/0/get/AW4ODE77NZnfT5VjdizvybYWHEFAFF9NCLLYKpKN9ip5WBy-DjUmpjbn0gmIsw4GDsAEVFBbbiz0dinvMONEV50aWJYUDQQCZE84PhEquKRuHGb6qAszlG0V7GoTlbyWFPUUnhTbcG3xhYiNU1cLNX8yuR_gQhWgdbFG98ZppJnmpYTLD9UjO-Dot-zbw8VRtSw/file?dl=1", 
           "version": "1.50301.0"
         },
         {
@@ -33,7 +33,7 @@
             "windows_amd64",
             "windows_x86"
             ],
-            "url": "https://uc1a06f5910ba27b144d29a6a200.dl.dropboxusercontent.com/cd/0/get/AW4ODE77NZnfT5VjdizvybYWHEFAFF9NCLLYKpKN9ip5WBy-DjUmpjbn0gmIsw4GDsAEVFBbbiz0dinvMONEV50aWJYUDQQCZE84PhEquKRuHGb6qAszlG0V7GoTlbyWFPUUnhTbcG3xhYiNU1cLNX8yuR_gQhWgdbFG98ZppJnmpYTLD9UjO-Dot-zbw8VRtSw/file?dl=1",
+            "url": "https://dl.bintray.com/platformio/dl-packages/toolchain-gccarmnoneeabi-windows-1.70201.0.tar.gz",
             "version": "1.70201.0"
             }
     ]
