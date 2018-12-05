@@ -1,0 +1,39 @@
+{
+  "build": {
+    "cpu": "cortex-m0plus",
+    "extra_flags": "-DSTM32L072xx -D__CORTEX_SC=0",
+    "f_cpu": "32000000L",
+    "mcu": "stm32l072cz",
+    "variant": "DISCO_L072CZ_LRWAN1"
+  },
+  "debug": {
+    "default_tools": [
+      "stlink"
+    ],
+    "jlink_device": "STM32L072CZ",
+    "onboard_tools": [
+      "stlink"
+    ],
+    "openocd_target": "stm32l0",
+    "svd_path": "STM32L07x.svd"
+  },
+  "frameworks": [
+    "arduino",
+    "mbed",
+    "stm32cube"
+  ],
+  "name": "ST DISCO-L072CZ-LRWAN1",
+  "upload": {
+    "maximum_ram_size": 20480,
+    "maximum_size": 196608,
+    "protocol": "mbed",
+    "protocols": [
+      "jlink",
+      "stlink",
+      "blackmagic",
+      "mbed"
+    ]
+  },
+  "url": "https://developer.mbed.org/platforms/ST-Discovery-LRWAN1/",
+  "vendor": "ST"
+}
