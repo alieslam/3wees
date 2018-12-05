@@ -14,7 +14,7 @@
   },
   "version": "4.5.0",
   "packageRepositories": [
-    "https://www.dropbox.com/s/o47mescksyr61ha/manifest.json?dl=1"
+    "https://raw.githubusercontent.com/alieslam/3wees/master/manifest.json"
   ],
   "frameworks": {
     "mbed": {
