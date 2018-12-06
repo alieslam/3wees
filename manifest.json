@@ -3,7 +3,7 @@
         {
         "sha1": "7d0cf5fea4386fdafbd6e2d3f852185a2de4474b",
         "system": "*",
-        "url": "http://localhost/pio/framework-arduinoelkrem.tar.gz",
+        "url": "http://localhost:8080/framework-arduinoelkrem.tar.gz",
         "version": "1.0.0"
         }
     ],
@@ -11,7 +11,7 @@
         {
             "sha1": "2866740ff123c1a2e6b9272e16ee6d322ab18fcd", 
             "system": "*", 
-            "url": "http://localhost/pio/tool-elkrem.tar.gz", 
+            "url": "http://localhost:8080/tool-elkrem.tar.gz", 
             "version": "1.0.0"
         }
     ],
