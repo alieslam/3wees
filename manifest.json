@@ -11,7 +11,7 @@
         {
             "sha1": "2866740ff123c1a2e6b9272e16ee6d322ab18fcd", 
             "system": "*", 
-            "url": "http://localhost:8080/tool-elkrem.tar.gz", 
+            "url": "https://bintray.com/elkrem/Elkrem/download_file?file_path=tool-elkrem.tar.gz", 
             "version": "1.0.0"
         }
     ],
