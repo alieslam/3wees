@@ -30,7 +30,7 @@ env = DefaultEnvironment()
 platform = env.PioPlatform()
 board = env.BoardConfig()
 
-FRAMEWORK_DIR = join(platform.get_package_dir("framework-arduinoststm32"), "STM32F2")
+FRAMEWORK_DIR = join(platform.get_package_dir("framework-arduinoelkrem"), "STM32F2")
 
 assert isdir(FRAMEWORK_DIR)
 
