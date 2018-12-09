@@ -109,7 +109,6 @@
     },
     "tool-elkrem": {
       "type": "uploader",
-      "optional": true,
       "version": "~1.0.0"
     }
   }
