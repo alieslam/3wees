@@ -17,13 +17,13 @@
     ],
     "toolchain-gccarmnoneeabi": [
         {
-          "sha1": "0fae6fe2779e21ba6734720f60b2d3d20a8e05a2", 
+          "sha1": "ab45e804e03e8e95bd097ff6eb63a873057c7bf9", 
           "system": [
 			"windows", 
 			"windows_amd64", 
 			"windows_x86"
 		  ], 
-          "url": "https://bintray.com/elkrem/Elkrem/download_file?file_path=toolchain-gccarmnoneabi-windows-1.50301.7z.gz", 
+          "url": "https://bintray.com/elkrem/Elkrem/download_file?file_path=toolchain-gccarmnoneeabi-windows-1.050301.0.tar.gz", 
           "version": "1.50301.0"
         },
     ]
