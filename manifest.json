@@ -24,7 +24,7 @@
 			"windows_x86"
 		  ], 
           "url": "https://bintray.com/elkrem/Elkrem/download_file?file_path=toolchain-gccarmnoneeabi-windows-1.050301.0.tar.gz", 
-          "version": "1.50301.0"
-        },
+          "version": "1.050301.0"
+        }
     ]
 }
